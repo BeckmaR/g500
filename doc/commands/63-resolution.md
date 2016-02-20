@@ -17,7 +17,7 @@ Example on the G500:
 out  10 00 83 63 00 00 00
 in   11 00 83 63 22 00 22 00 80 01 00 00 00 00 00 00 00 00 00 00
 ```
-The current resolution is 400 dpi (0x0022).
+The current resolution is 800 dpi (0x0022=34, and 17 units correspond to 400 dpi - [resolution.md](../resolution.md)).
 ```
 out  11 00 82 63 F3 00 F3 00 00 00 00 00 00 00 00 00 00 00 00 00
 in   10 00 82 63 00 00 00
